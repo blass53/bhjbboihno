@@ -4,4 +4,11 @@
     color:white;
     width: 300px;
     height: 300px;
+    text-align: center;
+}
+.cuadrado{
+    padding: 50px;
+    width: 300px;
+    height: 300px;
+    text-align: center;
 }
